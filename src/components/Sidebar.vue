@@ -43,7 +43,7 @@ export default {
 };
 </script>
 <style lang="scss">
-@import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bubblegum+Sans&display=swap");
 
 $green: #50c0b1;
 
@@ -124,19 +124,14 @@ $green: #50c0b1;
 }
 
 .logo {
-  font-family: "Comfortaa", cursive;
-  font-size: 20px;
-  color: #000;
+  font-family: "Bubblegum Sans", cursive;
+  font-size: 25px;
+  color: #333;
   border-bottom: 1px solid rgba(102, 97, 91, 0.3);
   padding: 18px 0px;
   margin: 0 20px;
   height: 75px;
   justify-content: center;
-}
-
-.logo-text {
-  letter-spacing: -0.2px;
-  font-weight: 700;
 }
 
 .star-icon {

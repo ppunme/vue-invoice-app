@@ -236,7 +236,7 @@ $secondary-color: #494949;
   padding-bottom: 2rem;
 
   .btn-mark {
-    font-family: "Work Sans", sans-serif;
+    font-family: "Poppins", sans-serif;
     font-weight: 500;
     font-size: 13px;
     border: 1px solid gray;

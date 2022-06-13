@@ -74,7 +74,7 @@ export default {
     text-align: center;
     background-color: #eef4fb;
     border-radius: 12px;
-    width: 130px;
+    width: 145px;
     transition: 0.4s ease-out;
 
     span,

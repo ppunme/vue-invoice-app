@@ -6,7 +6,11 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap";
 import "bootstrap-icons/font/bootstrap-icons.css";
 import { library } from "@fortawesome/fontawesome-svg-core";
-import { faFileLines, faPaperPlane } from "@fortawesome/free-regular-svg-icons";
+import {
+  faBuilding,
+  faFileLines,
+  faPaperPlane,
+} from "@fortawesome/free-regular-svg-icons";
 import {
   faAt,
   faAngleLeft,
@@ -39,6 +43,7 @@ library.add(
   faAngleLeft,
   faArrowRightLong,
   faBars,
+  faBuilding,
   faCircle,
   faCircleCheck,
   faCircleExclamation,

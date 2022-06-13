@@ -58,21 +58,21 @@ export default {
 </script>
 
 <style lang="scss">
-@import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@100;200;300;400;500;600;700;800&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
 
 $primary-color-font: #4c4c4c;
 $light-gray: #dddddd;
 
 #app {
-  font-family: "Work Sans", sans-serif;
+  font-family: "Poppins", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: $primary-color-font;
   font-size: 14px;
 
   .btn-default {
-    font-family: "Work Sans", sans-serif;
+    font-family: "Poppins", sans-serif;
     font-weight: 500;
     font-size: 14px;
     color: #fff;
